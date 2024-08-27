@@ -2,7 +2,7 @@
 
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!--
@@ -170,6 +170,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="20%"><a href="https://github.com/Affiction"><img src="https://avatars.githubusercontent.com/u/9825305?v=4?s=100" width="100px;" alt="Max Kokosha"/><br /><sub><b>Max Kokosha</b></sub></a><br /><a href="#example-Affiction" title="Examples">💡</a></td>
       <td align="center" valign="top" width="20%"><a href="https://github.com/Zukhrik"><img src="https://avatars.githubusercontent.com/u/67275391?v=4?s=100" width="100px;" alt="Зухриддин Камильжанов"/><br /><sub><b>Зухриддин Камильжанов</b></sub></a><br /><a href="#translation-Zukhrik" title="Translation">🌍</a> <a href="#promotion-Zukhrik" title="Promotion">📣</a> <a href="https://github.com/feature-sliced/documentation/commits?author=Zukhrik" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="20%"><a href="https://midas-png.github.io/portfolio/"><img src="https://avatars.githubusercontent.com/u/78198187?v=4?s=100" width="100px;" alt="Yan Levin"/><br /><sub><b>Yan Levin</b></sub></a><br /><a href="https://github.com/feature-sliced/documentation/commits?author=midas-png" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>

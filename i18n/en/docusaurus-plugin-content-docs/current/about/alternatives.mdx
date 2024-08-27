@@ -13,14 +13,38 @@ History of architecture approaches
 
 ## Big Ball of Mud
 
-<WIP ticket="258" />
+### What is it?
+The Big Ball of Mud is an antipattern that describes a system lacking a clear architecture. 
+The project has no defined modular boundaries, and the code grows in a chaotic manner, 
+making the project difficult to maintain as the code becomes tangled and highly coupled. 
+Any changes in one part of the system can easily affect other parts, leading to numerous bugs and complicating development.
 
-> What is it; Why is it so common; When it starts to bring problems; What to do and how does FSD help in this
+### Why is the Big Ball of Mud so common?
+The Big Ball of Mud often arises due to pressure to quickly release a product, when architectural design is postponed, 
+and developers create code without a clear structure. As the project grows, refactoring and architectural improvements 
+are often ignored in favor of new features, leading to a gradual deterioration of the code. Lack of coordination 
+and missing standards also contribute to the emergence of the Big Ball of Mud.
+
+### When do the problems start?
+Problems with the Big Ball of Mud become acute as the project grows and becomes more complex. 
+The code becomes increasingly convoluted, leading to difficulties in maintaining the project, increasing technical debt, 
+and slowing down development productivity. Making changes becomes risky, as any modifications can unpredictably 
+break other parts of the project.
+
+### What should be done?
+To avoid the Big Ball of Mud, it's important to implement architectural principles from the start and adhere to them 
+throughout the project. But if the Big Ball of Mud has already become a problem, the project needs to be refactored, 
+introducing architectural principles.
+
+### How does FSD solve this problem?
+FSD addresses the Big Ball of Mud problem by providing a clear modular structure and minimizing dependencies between modules. 
+In FSD, the project is divided into layers and segments, with a unidirectional data flow across layers and clear isolation. 
+This prevents chaotic code growth, allows for distinct module separation, and makes it safe to modify and remove modules 
+from the project due to low coupling.
 
 - [(Article) Oleg Isonen - Last words on UI architecture before an AI takes over](https://oleg008.medium.com/last-words-on-ui-architecture-before-an-ai-takes-over-468c78f18f0d)
 - [(Report) Julia Nikolaeva, iSpring - Big Ball of Mud and other problems of the monolith, we have handled](http://youtu.be/gna4Ynz1YNI)
 - [(Article) DD - Big Ball of mud](https://thedomaindrivendesign.io/big-ball-of-mud/)
-
 
 ## Smart & Dumb components
 
